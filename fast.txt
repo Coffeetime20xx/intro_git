@@ -1,2 +1,6 @@
 Git　練習えおして行きます
 2.基本的なワークフロー
+
+　・git add
+　・git commit
+　
